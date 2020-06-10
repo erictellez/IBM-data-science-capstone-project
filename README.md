@@ -38,14 +38,22 @@ Important:  Unfortunately, the actual metropolitan urban area is divided by two 
 
 ##### 7. References
 [1] Mexico City climate. Taken from https://en.wikipedia.org/wiki/Mexico_City#Climate
+
 [2] Kimmelman, M. (February 17th, 2017). Mexico City, Parched and Sinking, Faces a Water Crisis. Mexico City. The New York Times. Taken from
 https://www.nytimes.com/interactive/2017/02/17/world/americas/mexico-city-sinking.html
+
 [3] Izazola, Haydea. Agua y sustentabilidad en la Ciudad de México. Estudios Demográficos y Urbanos, núm. 47, mayo-agosto, 2001, pp. 285-320. El Colegio de México, A.C. Distrito Federal, México. (In Spanish)
+
 [4] Zambrano, Luis. (26 de mayo de 2015) 171 tinacos. Ciudad de México, Nexos. Taken from http://labrujula.nexos.com.mx/?p=344 (In Spanish)
+
 [5] Cohen, J., Hagerman, L. (Directores). 2014. H2Omx (documental). Cactus Film México.
 Taken from http://www.h2o.mx/ (In Spanish)
+
 [6] 7. Reporte de factibilidad hídrica, Sistema de aguas de la Ciudad de México. Taken from http://www.sacmex.cdmx.gob.mx/sacmex/index.php/atencion-a-usuarios/factibilidad-hidrica (In Spanish)
+
 [7] Foley, J. Fundamentals of energy use in water pumping. Department of industry and Science. Australian Government. Mayo 2015. Taken from
 http://www.cottoninfo.com.au/sites/default/files/documents/Fundamentals%20EnergyFS_A_3a.pdf
+
 [8] Isla Urbana A.C. (2016) Taken from http://islaurbana.org/sistemas-de-ciudad/ (In Spanish)
+
 [9] Zambrano, Luis. (26 de mayo de 2015) 171 tinacos. Ciudad de México, Nexos. Taken from http://labrujula.nexos.com.mx/?p=344 (In Spanish)
