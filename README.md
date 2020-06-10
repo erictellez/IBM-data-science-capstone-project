@@ -49,7 +49,7 @@ https://www.nytimes.com/interactive/2017/02/17/world/americas/mexico-city-sinkin
 [5] Cohen, J., Hagerman, L. (Directores). 2014. H2Omx (documental). Cactus Film México.
 Taken from http://www.h2o.mx/ (In Spanish)
 
-[6] 7. Reporte de factibilidad hídrica, Sistema de aguas de la Ciudad de México. Taken from http://www.sacmex.cdmx.gob.mx/sacmex/index.php/atencion-a-usuarios/factibilidad-hidrica (In Spanish)
+[6] Reporte de factibilidad hídrica, Sistema de aguas de la Ciudad de México. Taken from http://www.sacmex.cdmx.gob.mx/sacmex/index.php/atencion-a-usuarios/factibilidad-hidrica (In Spanish)
 
 [7] Foley, J. Fundamentals of energy use in water pumping. Department of industry and Science. Australian Government. Mayo 2015. Taken from
 http://www.cottoninfo.com.au/sites/default/files/documents/Fundamentals%20EnergyFS_A_3a.pdf
