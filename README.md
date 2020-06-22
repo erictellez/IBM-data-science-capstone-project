@@ -28,6 +28,12 @@ To tackle this problem, we need to download several databases as we list below:
 Important:  Unfortunately, the actual metropolitan urban area is divided by two different states and the more confident data is just in the state that is formerly known as Federal District.
 
 #### 3. Methodology
+First we need to download the database of the Hidrological Observatory of the National University. This database has several stations and each stations has its own data. 
+The data has the following columns: 
+We only need this columns so we droped the others.
+The data was taken every minute and we need to sum every minute of each day to get the daily amount of rain. The daily amount of rain is a fair measurement since it rains during the night and since the rain harvesting system is passive it could be collecting water while the people is sleeping. Thats why the measurments start at 7am and end at the same hour.
+
+The frecuency is the most important part of this project. Because of that one can reduce the cost of the water tank. My first guest was that the measurument has to be once a day but lets see.
 
 #### 4. Results
 
