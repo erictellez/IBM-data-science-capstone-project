@@ -21,6 +21,7 @@ To tackle this problem, we need to download several databases as we list below:
 - And here http://www.sacmex.cdmx.gob.mx/sacmex/index.php/atencion-a-usuarios/factibilidad-hidrica
 - In case some additional data is needed it could be found here: https://www.ncdc.noaa.gov/cdo-web/
 - The geographical data of the boroughs in Mexico city is here: https://datos.cdmx.gob.mx/explore/dataset/coloniascdmx/table/
+- The water consumption in México City: https://datos.cdmx.gob.mx/explore/dataset/consumo-agua/table/
 - Foursquare API to get the most common venues in Mexico City.
 - Use of Google Earth to map each borough polygon.
 - In case, another map is needed: https://www.inegi.org.mx/app/mapas/default.html?t=0150001000000000&ag=21
