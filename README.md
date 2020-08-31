@@ -12,7 +12,7 @@ Rain harvesting is a possible solution to this problem. In fact, this solution w
 
 One more variable of this problem is that the distribution of water is uneven because of diverse geographically conditions and, in fact, rain harvesting will also be uneven. That's why a geographical analysis of precipitation would be very useful to guarantee the best possible access to water for most of the people and to reduce operation costs to venues and companies.
 
-In this project, the differences in amount of rain by county and borough in Mexico City to make a prospection of the water harvesting is calculated. By doing so, the amount of money each venue can save by harvesting water will be calculated.
+In this project, the differences in amount of rain by county and borough in Mexico City to make a prospection of the water harvesting is calculated. By doing so, the amount of money each venue can save by investing in rain harvesting technology will be calculated.
 
 #### 2. Database description
 To tackle this problem, we need to download several databases as we list below: 
@@ -29,18 +29,27 @@ To tackle this problem, we need to download several databases as we list below:
 Important:  Unfortunately, the actual metropolitan urban area is divided by two different states and the more confident data is just in the state that is formerly known as Federal District.
 
 #### 3. Methodology
-First we need to download the database of the Hidrological Observatory of the National University. This database has several stations and each stations has its own data. 
-The data has the following columns: 
-We only need this columns so we droped the others.
-The data was taken every minute and we need to sum every minute of each day to get the daily amount of rain. The daily amount of rain is a fair measurement since it rains during the night and since the rain harvesting system is passive it could be collecting water while the people is sleeping. Thats why the measurments start at 7am and end at the same hour.
+First we need to download the database of the Hidrological Observatory of the National University. This database has several stations and each stations has its own data. Unfortunately there is no API for this database. The data has the following columns: Intensity (mm/h), Cummulative (mm), Refelctivity (dB), Visibility (m), Number of drops, Cinetic energy (KJ). For this project we only need the intensity.
+The data was taken every minute and we need to sum every minute of each day to get the daily amount of rain. The daily amount of rain is a fair measurement since it rains during the night and since the rain harvesting system is passive it could be collecting water while the people is sleeping. Thats why the measurments start at 7 am and end at the same hour.
 
-The frecuency is the most important part of this project. Because of that one can reduce the cost of the water tank. My first guest was that the measurument has to be once a day but lets see.
+The frecuency is the most important part of this project. Because of that one can reduce the cost of the water tank. I made some calculations with the frecuency of the rain in Mexico City.
+
+After that, I explored nearby the meteorological station the data was gathered looking for the venues in the Historical Centre neighbourhood. Several hotels and restaruants ares there. Unfortunately, I was not able to measure the roof of each building. This inromations is needed to calculate the possible amount of rain we can harvest. 
+
+Plus, the amount of water each hotel and restaurant spend is needed to calculate the return of investment in rain harvesting technology. The data is not available for each venue, instead the government reports the amount of water each block consumes. I want to use this data but I think it would take far more time.
+
+The final idea was to build a file with the data of the venue, the amount of rain in the city, the amount of payment for the water supply and so on to train a machine learning model and try to predict if a venue would buy a rain harvesting technology. I just put the code in place to do it but I have not enough time to compile the archive needed.
 
 #### 4. Results
+This project was a little more difficult than I expected so I was not able to finish it, nonetheless I submit the partial code I have. I took the results of the weeky amount of rain to make a presentation to a company of a mexican plumbing parts.
+
+The amount of rain is the range expected. The map will show the places where rains the most in the city.
 
 #### 5. Discussion
+It is possible to improve the data and use the API provided by the governmente, but I was not able to do it yet. Menanwhile, the data and the code ti process the rain in the city is simple and ready.
 
 #### 6. Conclusion
+The code is woring fine so far, unfortunately I need more time to build a consistent model and to propose a better business model for the water supply in MExico City.
 
 ##### 7. References
 [1] Mexico City climate. Taken from https://en.wikipedia.org/wiki/Mexico_City#Climate
@@ -61,4 +70,13 @@ Taken from http://www.h2o.mx/ (In Spanish)
 http://www.cottoninfo.com.au/sites/default/files/documents/Fundamentals%20EnergyFS_A_3a.pdf
 
 [8] Isla Urbana A.C. (2016). Taken from http://islaurbana.org/sistemas-de-ciudad/ (In Spanish)
+
+Code references
+[9] https://www.python.org/
+
+[10] https://stackoverflow.com/
+
+[11] https://jupyter.org/
+
+[12] https://www.anaconda.com/
 
