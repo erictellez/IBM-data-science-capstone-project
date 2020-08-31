@@ -41,15 +41,15 @@ Plus, the amount of water each hotel and restaurant spend is needed to calculate
 The final idea was to build a file with the data of the venue, the amount of rain in the city, the amount of payment for the water supply and so on to train a machine learning model and try to predict if a venue would buy a rain harvesting technology. I just put the code in place to do it but I have not enough time to compile the archive needed.
 
 #### 4. Results
-This project was a little more difficult than I expected so I was not able to finish it, nonetheless I submit the partial code I have. I took the results of the weeky amount of rain to make a presentation to a company of a mexican plumbing parts.
+This project was a little more difficult than I expected so I was not able to finish it, nonetheless I submit the partial code I have. I took the results of the weeky amount of rain to make a presentation to a Mexican plumbing parts company.
 
 The amount of rain is the range expected. The map will show the places where rains the most in the city.
 
 #### 5. Discussion
-It is possible to improve the data and use the API provided by the governmente, but I was not able to do it yet. Menanwhile, the data and the code ti process the rain in the city is simple and ready.
+It is possible to improve the data and use the API provided by the government, but I was not able to do it yet. Meanwhile, the data and the code to process the rain in the city is simple and ready.
 
 #### 6. Conclusion
-The code is woring fine so far, unfortunately I need more time to build a consistent model and to propose a better business model for the water supply in MExico City.
+The code is working fine so far, unfortunately I need more time to build a consistent model and to propose a better business model for the water supply in MExico City.
 
 ##### 7. References
 [1] Mexico City climate. Taken from https://en.wikipedia.org/wiki/Mexico_City#Climate
